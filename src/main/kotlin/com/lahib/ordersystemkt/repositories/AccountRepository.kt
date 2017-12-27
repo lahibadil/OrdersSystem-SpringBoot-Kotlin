@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.repositories
 
-import com.lahib.ordersystemkt.db.entities.Account
+import com.lahib.ordersystemkt.entities.Account
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

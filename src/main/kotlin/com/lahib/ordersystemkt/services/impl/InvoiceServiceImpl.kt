@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.services.impl
 
-import com.lahib.ordersystemkt.db.entities.Invoice
+import com.lahib.ordersystemkt.entities.Invoice
 import com.lahib.ordersystemkt.repositories.InvoiceRepository
 import com.lahib.ordersystemkt.services.InvoiceService
 import org.springframework.beans.factory.annotation.Autowired

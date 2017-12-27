@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.controllers
 
-import com.lahib.ordersystemkt.db.entities.Invoice
+import com.lahib.ordersystemkt.entities.Invoice
 import com.lahib.ordersystemkt.services.BaseService
 import com.lahib.ordersystemkt.services.InvoiceService
 import lombok.extern.slf4j.Slf4j

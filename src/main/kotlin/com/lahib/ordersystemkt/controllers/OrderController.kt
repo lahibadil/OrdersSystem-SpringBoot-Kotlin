@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.controllers
 
-import com.lahib.ordersystemkt.db.entities.Order
+import com.lahib.ordersystemkt.entities.Order
 import com.lahib.ordersystemkt.services.OrderService
 import lombok.extern.slf4j.Slf4j
 import org.springframework.beans.factory.annotation.Autowired

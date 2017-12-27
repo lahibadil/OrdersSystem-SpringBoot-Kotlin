@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.controllers
 
-import com.lahib.ordersystemkt.db.entities.Supplier
+import com.lahib.ordersystemkt.entities.Supplier
 import com.lahib.ordersystemkt.services.SupplierService
 import lombok.extern.slf4j.Slf4j
 import org.springframework.web.bind.annotation.*

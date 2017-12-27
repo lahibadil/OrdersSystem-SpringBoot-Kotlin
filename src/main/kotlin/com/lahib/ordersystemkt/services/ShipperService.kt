@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.services
 
-import com.lahib.ordersystemkt.db.entities.Shipper
+import com.lahib.ordersystemkt.entities.Shipper
 
 interface ShipperService : BaseService<Shipper> {
 }

@@ -1,4 +1,4 @@
-package com.lahib.ordersystemkt.db.entities
+package com.lahib.ordersystemkt.entities
 
 import lombok.Data
 import javax.persistence.Column
@@ -10,19 +10,19 @@ import javax.persistence.Entity
 class Address {
 
     @Column(name = "line1")
-    private val line1: String? = null
+    private var line1: String? = null
 
     @Column(name = "line2")
-    private val line2: String? = null
+    private var line2: String? = null
 
     @Column(name = "city")
-    private val city: String? = null
+    private var city: String? = null
 
     @Column(name = "zip")
-    private val zip: String? = null
+    private var zip: String? = null
 
     @Column(name = "country")
-    private val country: String? = null
+    private var country: String? = null
 
 
 }

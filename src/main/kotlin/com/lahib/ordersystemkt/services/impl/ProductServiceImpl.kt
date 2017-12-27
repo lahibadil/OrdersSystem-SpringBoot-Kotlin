@@ -1,6 +1,6 @@
 package com.lahib.ordersystemkt.services.impl
 
-import com.lahib.ordersystemkt.db.entities.Product
+import com.lahib.ordersystemkt.entities.Product
 import com.lahib.ordersystemkt.repositories.ProductRepository
 import com.lahib.ordersystemkt.services.ProductService
 import org.springframework.beans.factory.annotation.Autowired

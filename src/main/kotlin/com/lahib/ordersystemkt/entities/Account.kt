@@ -1,11 +1,10 @@
-package com.lahib.ordersystemkt.db.entities
+package com.lahib.ordersystemkt.entities
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue
 import javax.persistence.GenerationType
 import javax.persistence.Id
 
-
 @Entity
-data class Supplier (@Id @GeneratedValue(strategy = GenerationType.IDENTITY) val id : Long = 0) {
+data class Account(@Id @GeneratedValue(strategy = GenerationType.IDENTITY) var id : Long = 0) {
 }

@@ -1,5 +1,6 @@
 package com.lahib.ordersystemkt
 
+import com.lahib.ordersystemkt.entities.Supplier
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
