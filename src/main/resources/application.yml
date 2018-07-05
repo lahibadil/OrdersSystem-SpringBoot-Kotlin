@@ -16,7 +16,7 @@ spring:
     name: ADIL LAHIB's Orders System
   mail:
     host: smtp.gmail.com
-    username: emsemsweb@gmail.com
+    username: ########
     password: ########
     port: 587
     properties:
