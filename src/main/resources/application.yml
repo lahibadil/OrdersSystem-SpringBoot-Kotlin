@@ -17,7 +17,7 @@ spring:
   mail:
     host: smtp.gmail.com
     username: emsemsweb@gmail.com
-    password: ems-web2016
+    password: ########
     port: 587
     properties:
       mail:
